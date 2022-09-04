@@ -2,6 +2,7 @@
 <body>
   <div class="center">
 <h2>Welcome to XYZ technologies</h2>
+     </div class="center">
   <h3>This is admin Module</h3>
   <button name="Add User" value="Add User" type="button" onclick="addUser()">Add User</button>  
 <script>  
@@ -21,6 +22,5 @@ function deleteUser(){
 alert("You will be navigated to delete module");  
 }  
 </script>
-      </div class="center">
 </body>
 </html>
